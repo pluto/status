@@ -4,19 +4,19 @@
     "url": "notary.pluto.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "notary-ws",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 28,
-    "timeDay": 28,
-    "timeWeek": 28,
-    "timeMonth": 28,
-    "timeYear": 28,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 34,
+    "timeDay": 34,
+    "timeWeek": 34,
+    "timeMonth": 34,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 1
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://notary.pluto.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/notary.pluto.xyz.ico",
     "slug": "notary-http",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 1
     }
   },
   {
