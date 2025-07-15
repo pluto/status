@@ -10,4 +10,4 @@ This repository hosts the uptime monitor and status page for Pluto services, pow
 
 ## 📈 Live Status
 
-The live status is available at [https://status.pluto.xyz](https://status.pluto.xyz).
+The live status is available at [https://status.pluto.xyz](https://status.pluto.xyz)
