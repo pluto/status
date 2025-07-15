@@ -14,7 +14,7 @@ sites:
   - name: Playground
     url: https://playground.pluto.xyz/
   - name: Browser Inspector
-    url: https://browser-inspector.pluto.xyz/
+    url: https://browser-inspector.pluto.xyz/inspector.html
 
 assignees:
   - eerieeight
