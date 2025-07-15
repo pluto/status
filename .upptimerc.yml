@@ -24,15 +24,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pluto.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/20591802?s=200&v=4
   name: Pluto Status
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: 'Pluto Services Status'
+  introMessage: 'This page provides real-time status updates for our services. If you are experiencing an issue not listed here, please contact support.'
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/pluto/status
+      href: https://github.com/$OWNER/$REPO
 
 notifications:
   - type: slack
