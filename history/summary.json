@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/browser-inspector.pluto.xyz.ico",
     "slug": "browser-inspector",
     "status": "up",
-    "uptime": "0.50%",
-    "uptimeDay": "0.50%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "0.50%",
-    "uptimeYear": "0.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 217,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2025-07-15": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
