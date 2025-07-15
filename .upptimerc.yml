@@ -7,12 +7,22 @@ sites:
     url: notary.pluto.xyz
     port: 443
     check: 'tcp-ping'
+  - name: Notary WS Staging
+    url: notary.pluto.dev
+    port: 443
+    check: 'tcp-ping'
   - name: Notary HTTP
     url: https://notary.pluto.xyz
+  - name: Notary HTTP Staging
+    url: https://notary.pluto.dev
   - name: Frame
     url: https://frame.pluto.xyz/
+  - name: Frame Staging
+    url: https://frame.pluto.dev
   - name: Playground
     url: https://playground.pluto.xyz/
+  - name: Playground Staging
+    url: https://playground.pluto.dev
   - name: Browser Inspector
     url: https://browser-inspector.pluto.xyz/inspector.html
 
