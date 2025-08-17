@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 50,
-    "timeWeek": 36,
+    "timeDay": 28,
+    "timeWeek": 33,
     "timeMonth": 34,
     "timeYear": 34,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 51,
-    "timeWeek": 37,
+    "timeDay": 27,
+    "timeWeek": 33,
     "timeMonth": 34,
     "timeYear": 34,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 192,
-    "timeWeek": 145,
+    "time": 144,
+    "timeDay": 111,
+    "timeWeek": 133,
     "timeMonth": 143,
-    "timeYear": 145,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 260,
-    "timeWeek": 208,
+    "time": 177,
+    "timeDay": 120,
+    "timeWeek": 185,
     "timeMonth": 178,
-    "timeYear": 179,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.xyz.ico",
     "slug": "frame",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 159,
-    "timeWeek": 104,
-    "timeMonth": 121,
+    "timeDay": 124,
+    "timeWeek": 106,
+    "timeMonth": 122,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2025-08-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frame Staging",
@@ -97,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.dev.ico",
     "slug": "frame-staging",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 157,
-    "timeDay": 186,
-    "timeWeek": 139,
-    "timeMonth": 147,
-    "timeYear": 157,
-    "dailyMinutesDown": {
-      "2025-08-16": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 155,
+    "timeDay": 143,
+    "timeWeek": 136,
+    "timeMonth": 148,
+    "timeYear": 155,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Playground",
@@ -117,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.xyz.ico",
     "slug": "playground",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 118,
-    "timeDay": 112,
-    "timeWeek": 109,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 117,
+    "timeDay": 122,
+    "timeWeek": 111,
     "timeMonth": 109,
-    "timeYear": 118,
-    "dailyMinutesDown": {
-      "2025-08-16": 8
-    }
+    "timeYear": 117,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Playground Staging",
@@ -137,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.dev.ico",
     "slug": "playground-staging",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 159,
-    "timeDay": 204,
-    "timeWeek": 153,
-    "timeMonth": 147,
-    "timeYear": 159,
-    "dailyMinutesDown": {
-      "2025-08-16": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 158,
+    "timeDay": 181,
+    "timeWeek": 157,
+    "timeMonth": 149,
+    "timeYear": 158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Browser Inspector",
@@ -163,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 159,
+    "timeDay": 157,
     "timeWeek": 127,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 152,
     "dailyMinutesDown": {}
   }
