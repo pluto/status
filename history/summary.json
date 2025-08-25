@@ -76,19 +76,19 @@
     "url": "https://frame.pluto.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.xyz.ico",
     "slug": "frame",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 154,
+    "timeDay": 148,
     "timeWeek": 127,
     "timeMonth": 122,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 7
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://frame.pluto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.dev.ico",
     "slug": "frame-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 114,
-    "timeWeek": 125,
-    "timeMonth": 142,
+    "timeDay": 122,
+    "timeWeek": 128,
+    "timeMonth": 143,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 6
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://playground.pluto.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.xyz.ico",
     "slug": "playground",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 112,
-    "timeWeek": 128,
-    "timeMonth": 115,
+    "timeDay": 108,
+    "timeWeek": 125,
+    "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 6
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://playground.pluto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.dev.ico",
     "slug": "playground-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 149,
-    "timeWeek": 162,
+    "timeDay": 151,
+    "timeWeek": 161,
     "timeMonth": 154,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 5
     }
   },
   {
