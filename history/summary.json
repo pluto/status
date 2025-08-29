@@ -77,19 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.xyz.ico",
     "slug": "frame",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 136,
     "timeDay": 148,
     "timeWeek": 151,
     "timeMonth": 132,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-08-29": 1,
-      "2025-08-28": 28
+      "2025-08-28": 15
     }
   },
   {
@@ -98,20 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.dev.ico",
     "slug": "frame-staging",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 163,
     "timeWeek": 155,
     "timeMonth": 151,
     "timeYear": 153,
-    "dailyMinutesDown": {
-      "2025-08-29": 1,
-      "2025-08-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Playground",
@@ -119,20 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.xyz.ico",
     "slug": "playground",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 147,
     "timeWeek": 124,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2025-08-29": 1,
-      "2025-08-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Playground Staging",
@@ -140,20 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.dev.ico",
     "slug": "playground-staging",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 160,
     "timeWeek": 163,
     "timeMonth": 157,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2025-08-29": 1,
-      "2025-08-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Browser Inspector",
