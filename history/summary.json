@@ -76,10 +76,10 @@
     "url": "https://frame.pluto.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.xyz.ico",
     "slug": "frame",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 136,
@@ -88,6 +88,7 @@
     "timeMonth": 135,
     "timeYear": 136,
     "dailyMinutesDown": {
+      "2025-09-02": 1,
       "2025-09-01": 18,
       "2025-08-30": 29,
       "2025-08-28": 15
@@ -98,11 +99,11 @@
     "url": "https://frame.pluto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/frame.pluto.dev.ico",
     "slug": "frame-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 156,
     "timeDay": 167,
@@ -110,6 +111,7 @@
     "timeMonth": 154,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2025-09-02": 1,
       "2025-09-01": 17,
       "2025-08-30": 28
     }
@@ -119,18 +121,19 @@
     "url": "https://playground.pluto.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.xyz.ico",
     "slug": "playground",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 118,
     "timeDay": 81,
     "timeWeek": 118,
     "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-09-02": 1,
       "2025-09-01": 17,
       "2025-08-30": 28
     }
@@ -140,9 +143,9 @@
     "url": "https://playground.pluto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/playground.pluto.dev.ico",
     "slug": "playground-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
@@ -152,6 +155,7 @@
     "timeMonth": 158,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-09-01": 17,
       "2025-08-30": 27
     }
